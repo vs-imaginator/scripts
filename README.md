@@ -1,2 +1,2 @@
 # scripts
-scripts I wrote to make my life easier
+A collection of various scripts I use to make my life easier.
